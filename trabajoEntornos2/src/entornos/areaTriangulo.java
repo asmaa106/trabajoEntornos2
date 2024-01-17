@@ -1,5 +1,4 @@
-package entornos;
- 
+package entornos; 
 import java.util.Scanner;
 
 public class areaTriangulo {
